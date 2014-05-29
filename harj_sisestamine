@@ -1,0 +1,15 @@
+print "Sisesta harjutuse nimi:"
+harj_nimi = gets.chomp
+first_name.capitalize!
+
+print "Sisesta mängijate arv"
+harj_summa = gets.chomp
+	if harj_summa = 0
+		print("Sisesta nullist suurem arv")
+		harj_summa = gets chomp
+		
+
+print "Kirjelda harjutust:"
+harj_kirjeldus = gets.chomp
+
+puts" Harjutuse nimi on #{harj_name}, milles mängijate arv on #{harj_summa} ja #{harj_kirjeldus}
